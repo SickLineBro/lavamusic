@@ -1,0 +1,25 @@
+{
+  "name": "lavamusic",
+  "version": "1.0.0",
+  "description": "A simple, easy to use wrapper for lavalink.",
+  "main": "index.js",
+  "keywords": [
+    "lavalink",
+    "discord",
+    "discord.js"
+  ],
+  "author": "SickLineBro",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=7.0.0"
+  },
+  "dependencies": {
+    "undici": "^5.10.0",
+    "ws": "^8.8.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.23.0",
+    "prettier": "^2.7.1"
+  }
+}
